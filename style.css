@@ -1,0 +1,68 @@
+body {
+  background-color: #000;
+}
+div {
+  width: 40%;
+  padding: 10px;
+  background-color: #A07438;
+}
+h1,h2 {
+  color: #dda539;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+p {
+  font-family: serif;
+  color: #FFF;
+  text-align: center;
+  font-size: 20px;
+}
+a:link {
+  color: #FFF;
+  text-decoration: none;
+}
+a:visited {
+  color: #FFF;
+}
+a:hover {
+  color: #000;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.floatLeftDiv {
+  float: left;
+  margin: 0px 0px 50px 80px;
+}
+.floatRightDiv {
+  float: right;
+  margin: 0px 80px 50px 0px;
+}
+.floatLeft {
+  float: left;
+}
+.paraPadding {
+  padding: 5% 0%;
+}
+#mainHeader {
+  font-size: 50px;
+}
+#subHeader {
+  font-size: 40px;
+}
+#widerCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  line-height: 25px;
+}
+#ticketSize {
+  width: 30%;
+}
+#spotifySize {
+  width: 20%;
+}
